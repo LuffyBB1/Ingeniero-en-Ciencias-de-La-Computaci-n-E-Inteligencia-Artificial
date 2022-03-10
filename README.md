@@ -1,2 +1,2 @@
 # Ingeniero-en-Ciencias-de-La-Computaci-n-E-Inteligencia-Artificial
-Estudiante de Ingeniero en Ciencias de la computación e Inteligencia Artificial de 9° Semestre, con experiencia profesional en procesos de recuperación de backups e implementación de los mismos con Veeam Backup And Replication y Dataprotector. Además de gestión y administración de servidores con Vmware y almacenamientos 3PAR y PRIMERA de HPE. 
+Estudiante de Ingeniería en Ciencias de la computación e Inteligencia Artificial de 9° Semestre, con experiencia profesional en procesos de recuperación de backups e implementación de los mismos con Veeam Backup And Replication y Dataprotector. Además de gestión y administración de servidores con Vmware y almacenamientos 3PAR y PRIMERA de HPE. 
